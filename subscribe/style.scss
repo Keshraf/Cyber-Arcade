@@ -1,0 +1,30 @@
+@import "../scss/reset";
+@import "../scss/variable";
+@import "../scss/starter";
+
+body {
+  width: 100%;
+  height: auto;
+  @include flexCenter();
+  background-color: #121212;
+  color: #fff;
+}
+
+nav {
+  position: static;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+}
+
+main {
+  width: 80%;
+  height: auto;
+  @include flexCenter(row, space-evenly);
+  margin-top: 50px;
+  img {
+    cursor: pointer;
+  }
+}

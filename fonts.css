@@ -1,5 +1,8 @@
-
 @font-face {
-  font-family: "Hastron";
-  src: url("../fonts/Hastron FREE.ttf");
+    font-family: 'Hastron FREE';
+    src: url('./fonts/HastronFREE.woff2') format('woff2'),
+        url('./fonts/HastronFREE.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }

@@ -1,6 +1,16 @@
 @import "./scss/reset";
 @import "./scss/variable";
 @import "./scss/starter";
+@font-face {
+  font-family: "Tw Cen Mt";
+  src: url("./fonts/Tw Cen MT.ttf");
+}
+
+@font-face {
+  font-family: "Hastron";
+  src: url("./fonts/Hastron FREE.ttf");
+}
+
 
 body {
   font-family: font(heading);

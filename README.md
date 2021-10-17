@@ -33,7 +33,9 @@ Please watch the demonstration above to discover all the functionalities of the 
 1. 600,000 games information on the website
 2. Infinte Scroll
 3. 3D Virtual Environment
-4. Easy Navigation and Categorisation
+4. Simple Navigation and Categorisation
+5. Working Genre Panel
+6. Working Search Bar
 
 # Pages
 
